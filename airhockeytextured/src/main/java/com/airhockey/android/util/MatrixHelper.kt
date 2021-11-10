@@ -8,20 +8,6 @@
  */
 package com.airhockey.android.util
 
-import android.opengl.GLES20
-import android.graphics.BitmapFactory
-import android.graphics.Bitmap
-import android.opengl.GLUtils
-import android.content.res.Resources.NotFoundException
-import com.airhockey.android.R
-import android.app.Activity
-import android.opengl.GLSurfaceView
-import android.os.Bundle
-import android.app.ActivityManager
-import android.os.Build
-import android.widget.Toast
-import javax.microedition.khronos.opengles.GL10
-
 object MatrixHelper {
     fun perspectiveM(
         m: FloatArray, yFovInDegrees: Float, aspect: Float,

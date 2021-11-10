@@ -8,25 +8,11 @@
  */
 package com.airhockey.android.util
 
-import android.opengl.GLES20
-import android.graphics.BitmapFactory
-import android.graphics.Bitmap
-import android.opengl.GLUtils
-import android.content.res.Resources.NotFoundException
-import com.airhockey.android.R
-import android.app.Activity
-import android.opengl.GLSurfaceView
-import android.os.Bundle
-import android.app.ActivityManager
 import android.content.Context
-import android.os.Build
-import android.widget.Toast
+import android.content.res.Resources.NotFoundException
 import java.io.BufferedReader
 import java.io.IOException
 import java.io.InputStreamReader
-import java.lang.RuntimeException
-import java.lang.StringBuilder
-import javax.microedition.khronos.opengles.GL10
 
 object TextResourceReader {
     /**

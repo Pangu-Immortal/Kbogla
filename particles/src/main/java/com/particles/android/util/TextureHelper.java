@@ -19,6 +19,7 @@ import static android.opengl.GLES20.glGenTextures;
 import static android.opengl.GLES20.glGenerateMipmap;
 import static android.opengl.GLES20.glTexParameteri;
 import static android.opengl.GLUtils.texImage2D;
+
 import android.content.Context;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;

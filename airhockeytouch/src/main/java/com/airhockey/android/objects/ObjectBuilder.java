@@ -12,14 +12,12 @@ import static android.opengl.GLES20.GL_TRIANGLE_FAN;
 import static android.opengl.GLES20.GL_TRIANGLE_STRIP;
 import static android.opengl.GLES20.glDrawArrays;
 
-import java.util.ArrayList;
-import java.util.List;
-
-import android.util.FloatMath;
-
 import com.airhockey.android.util.Geometry.Circle;
 import com.airhockey.android.util.Geometry.Cylinder;
 import com.airhockey.android.util.Geometry.Point;
+
+import java.util.ArrayList;
+import java.util.List;
 
 class ObjectBuilder {
     private static final int FLOATS_PER_VERTEX = 3;

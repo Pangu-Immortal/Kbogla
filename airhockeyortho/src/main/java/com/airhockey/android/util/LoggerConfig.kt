@@ -8,6 +8,14 @@
  */
 package com.airhockey.android.util
 
+/**
+ * Doc说明 (此类核心功能):
+ * @date on 2021/11/10 17:20
+ * +------------------------------------+
+ * | @author qihao                      |
+ * | @GitHub https://github.com/yugu88  |
+ * +------------------------------------+
+ */
 object LoggerConfig {
     const val ON = true
 }

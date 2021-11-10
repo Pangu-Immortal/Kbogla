@@ -11,6 +11,7 @@ package com.particles.android.programs;
 import static android.opengl.GLES20.glGetAttribLocation;
 import static android.opengl.GLES20.glGetUniformLocation;
 import static android.opengl.GLES20.glUniformMatrix4fv;
+
 import android.content.Context;
 
 import com.particles.android.R;
