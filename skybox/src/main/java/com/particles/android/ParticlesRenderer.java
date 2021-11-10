@@ -22,9 +22,6 @@ import static android.opengl.Matrix.rotateM;
 import static android.opengl.Matrix.setIdentityM;
 import static android.opengl.Matrix.translateM;
 
-import javax.microedition.khronos.egl.EGLConfig;
-import javax.microedition.khronos.opengles.GL10;
-
 import android.content.Context;
 import android.graphics.Color;
 import android.opengl.GLSurfaceView.Renderer;
@@ -38,6 +35,9 @@ import com.particles.android.util.Geometry.Point;
 import com.particles.android.util.Geometry.Vector;
 import com.particles.android.util.MatrixHelper;
 import com.particles.android.util.TextureHelper;
+
+import javax.microedition.khronos.egl.EGLConfig;
+import javax.microedition.khronos.opengles.GL10;
 
 public class ParticlesRenderer implements Renderer {    
     private final Context context;

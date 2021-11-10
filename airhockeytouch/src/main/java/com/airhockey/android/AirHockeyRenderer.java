@@ -20,9 +20,6 @@ import static android.opengl.Matrix.setIdentityM;
 import static android.opengl.Matrix.setLookAtM;
 import static android.opengl.Matrix.translateM;
 
-import javax.microedition.khronos.egl.EGLConfig;
-import javax.microedition.khronos.opengles.GL10;
-
 import android.content.Context;
 import android.opengl.GLSurfaceView.Renderer;
 
@@ -39,6 +36,9 @@ import com.airhockey.android.util.Geometry.Sphere;
 import com.airhockey.android.util.Geometry.Vector;
 import com.airhockey.android.util.MatrixHelper;
 import com.airhockey.android.util.TextureHelper;
+
+import javax.microedition.khronos.egl.EGLConfig;
+import javax.microedition.khronos.opengles.GL10;
 
 public class AirHockeyRenderer implements Renderer {    
     private final Context context;

@@ -33,9 +33,6 @@ import static android.opengl.Matrix.setIdentityM;
 import static android.opengl.Matrix.translateM;
 import static android.opengl.Matrix.transposeM;
 
-import javax.microedition.khronos.egl.EGLConfig;
-import javax.microedition.khronos.opengles.GL10;
-
 import android.content.Context;
 import android.graphics.Color;
 import android.graphics.drawable.BitmapDrawable;
@@ -55,6 +52,9 @@ import com.particles.android.util.Geometry.Vector;
 import com.particles.android.util.LoggerConfig;
 import com.particles.android.util.MatrixHelper;
 import com.particles.android.util.TextureHelper;
+
+import javax.microedition.khronos.egl.EGLConfig;
+import javax.microedition.khronos.opengles.GL10;
 
 public class ParticlesRenderer implements Renderer {   
     private static final String TAG = "ParticlesRenderer";

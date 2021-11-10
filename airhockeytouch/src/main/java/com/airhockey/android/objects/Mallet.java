@@ -8,13 +8,13 @@
 ***/
 package com.airhockey.android.objects;
 
-import java.util.List;
-
 import com.airhockey.android.data.VertexArray;
 import com.airhockey.android.objects.ObjectBuilder.DrawCommand;
 import com.airhockey.android.objects.ObjectBuilder.GeneratedData;
 import com.airhockey.android.programs.ColorShaderProgram;
 import com.airhockey.android.util.Geometry.Point;
+
+import java.util.List;
 
 public class Mallet {
     private static final int POSITION_COMPONENT_COUNT = 3;

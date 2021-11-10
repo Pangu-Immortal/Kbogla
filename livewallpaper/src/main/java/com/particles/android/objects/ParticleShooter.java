@@ -8,12 +8,12 @@
 ***/
 package com.particles.android.objects;
 
-import java.util.Random;
-
 import android.opengl.Matrix;
 
 import com.particles.android.util.Geometry.Point;
 import com.particles.android.util.Geometry.Vector;
+
+import java.util.Random;
 
 /** This class shoots particles in a particular direction. */
 

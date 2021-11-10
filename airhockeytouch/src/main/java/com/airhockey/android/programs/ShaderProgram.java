@@ -9,6 +9,7 @@
 package com.airhockey.android.programs;
 
 import static android.opengl.GLES20.glUseProgram;
+
 import android.content.Context;
 
 import com.airhockey.android.util.ShaderHelper;

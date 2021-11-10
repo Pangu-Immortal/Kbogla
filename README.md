@@ -2,7 +2,7 @@
 
 ### 适用于 Android 的 OpenGL ES 库
 
-																																by Kevin qi
+                                by Kevin qi OnTime
 
 #### 快速入门指南
 

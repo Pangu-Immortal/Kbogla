@@ -11,6 +11,7 @@ package com.particles.android.objects;
 import static android.opengl.GLES20.GL_POINTS;
 import static android.opengl.GLES20.glDrawArrays;
 import static com.particles.android.Constants.BYTES_PER_FLOAT;
+
 import android.graphics.Color;
 
 import com.particles.android.data.VertexArray;

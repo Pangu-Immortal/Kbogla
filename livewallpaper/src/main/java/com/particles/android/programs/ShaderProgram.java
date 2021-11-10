@@ -9,6 +9,7 @@
 package com.particles.android.programs;
 
 import static android.opengl.GLES20.glUseProgram;
+
 import android.content.Context;
 
 import com.particles.android.util.ShaderHelper;

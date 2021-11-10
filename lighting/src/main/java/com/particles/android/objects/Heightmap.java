@@ -14,6 +14,7 @@ import static android.opengl.GLES20.GL_UNSIGNED_SHORT;
 import static android.opengl.GLES20.glBindBuffer;
 import static android.opengl.GLES20.glDrawElements;
 import static com.particles.android.Constants.BYTES_PER_FLOAT;
+
 import android.graphics.Bitmap;
 import android.graphics.Color;
 

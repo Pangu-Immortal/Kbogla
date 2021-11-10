@@ -8,17 +8,21 @@
  */
 package com.airhockey.android
 
-import android.opengl.GLES20
-import android.content.res.Resources.NotFoundException
 import android.app.Activity
-import android.opengl.GLSurfaceView
-import android.os.Bundle
 import android.app.ActivityManager
+import android.opengl.GLSurfaceView
 import android.os.Build
+import android.os.Bundle
 import android.widget.Toast
-import javax.microedition.khronos.opengles.GL10
-import com.airhockey.android.R
 
+/**
+ * Doc说明 (此类核心功能):
+ * @date on 2021/11/10 17:21
+ * +------------------------------------+
+ * | @author qihao                      |
+ * | @GitHub https://github.com/yugu88  |
+ * +------------------------------------+
+ */
 class AirHockeyActivity : Activity() {
     /**
      * Hold a reference to our GLSurfaceView

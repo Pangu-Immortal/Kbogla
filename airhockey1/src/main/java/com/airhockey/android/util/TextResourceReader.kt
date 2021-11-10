@@ -8,23 +8,20 @@
  */
 package com.airhockey.android.util
 
-import android.opengl.GLES20
-import android.content.res.Resources.NotFoundException
-import android.app.Activity
-import android.opengl.GLSurfaceView
-import android.os.Bundle
-import android.app.ActivityManager
 import android.content.Context
-import android.os.Build
-import android.widget.Toast
-import javax.microedition.khronos.opengles.GL10
-import com.airhockey.android.R
+import android.content.res.Resources.NotFoundException
 import java.io.BufferedReader
 import java.io.IOException
 import java.io.InputStreamReader
-import java.lang.RuntimeException
-import java.lang.StringBuilder
 
+/**
+ * Doc说明 (此类核心功能):
+ * @date on 2021/11/10 17:18
+ * +------------------------------------+
+ * | @author qihao                      |
+ * | @GitHub https://github.com/yugu88  |
+ * +------------------------------------+
+ */
 object TextResourceReader {
     /**
      * Reads in text from a resource file and returns a String containing the

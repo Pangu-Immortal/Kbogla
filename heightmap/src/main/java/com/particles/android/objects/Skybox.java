@@ -12,10 +12,10 @@ import static android.opengl.GLES20.GL_TRIANGLES;
 import static android.opengl.GLES20.GL_UNSIGNED_BYTE;
 import static android.opengl.GLES20.glDrawElements;
 
-import java.nio.ByteBuffer;
-
 import com.particles.android.data.VertexArray;
 import com.particles.android.programs.SkyboxShaderProgram;
+
+import java.nio.ByteBuffer;
 
 public class Skybox {
     private static final int POSITION_COMPONENT_COUNT = 3;

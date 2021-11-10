@@ -13,6 +13,7 @@ import static android.opengl.GLES20.GL_TRIANGLES;
 import static android.opengl.GLES20.GL_UNSIGNED_SHORT;
 import static android.opengl.GLES20.glBindBuffer;
 import static android.opengl.GLES20.glDrawElements;
+
 import android.graphics.Bitmap;
 import android.graphics.Color;
 

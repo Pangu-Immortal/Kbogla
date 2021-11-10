@@ -8,13 +8,14 @@
 ***/
 
 package com.particles.android.objects;
+
 import static android.opengl.Matrix.multiplyMV;
 import static android.opengl.Matrix.setRotateEulerM;
 
-import java.util.Random;
-
 import com.particles.android.util.Geometry.Point;
 import com.particles.android.util.Geometry.Vector;
+
+import java.util.Random;
 
 /** This class shoots particles in a particular direction. */
 
