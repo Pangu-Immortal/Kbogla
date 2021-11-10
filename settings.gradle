@@ -1,0 +1,24 @@
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+        jcenter() // Warning: this repository is going to shut down soon
+    }
+}
+rootProject.name = "Kbogla"
+include ':app'
+include ':airhockey1'
+include ':airhockey2'
+include ':airhockey3d'
+include ':airhockeyortho'
+include ':airhockeytextured'
+include ':airhockeytouch'
+include ':airhockeywithimprovedmallets'
+include ':firstopenglproject'
+include ':heightmap'
+include ':lighting'
+include ':livewallpaper'
+include ':particles'
+include ':skybox'
+include ':takingthenextstep'
