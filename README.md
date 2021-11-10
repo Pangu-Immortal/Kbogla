@@ -1,16 +1,11 @@
-# Kbogla
+# Kbogla 🚗
 
-### 适用于 Android 的 OpenGL ES 库
-
-
-
-###                                                                                               by Kevin qi
+### 适用于 Android 的 OpenGL ES 库 🐯
 
 <img src="https://github.com/yugu88/Kbogla/blob/main/author.png?raw=true" alt="https://github.com/yugu88/Kbogla/blob/main/author.png?raw=true" style="zoom:50%;" />
 
 
-
-#### 快速入门指南
+#### 🚀 快速入门指南
 
 请使用最新版Android studio，SDK 升级到 Android 12。 JDK11。
 
@@ -37,7 +32,7 @@
 
 ---
 
-#### 五个 OpenGL ES 常用技巧
+#### 💗五个 OpenGL ES 常用技巧
 
 1. 避免在 UI 和渲染线程上进行昂贵的操作。
 
