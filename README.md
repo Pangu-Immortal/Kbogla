@@ -2,9 +2,11 @@
 
 ### 适用于 Android 的 OpenGL ES 库
 
-
+																																by Kevin qi
 
 #### 快速入门指南
+
+请使用最新版Android studio，SDK 升级到 Android 12。 JDK11。
 
 ---
 
