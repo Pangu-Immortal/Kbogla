@@ -20,6 +20,14 @@ import android.view.View;
 import android.view.View.OnTouchListener;
 import android.widget.Toast;
 
+/**
+ * Doc说明 (此类核心功能):
+ * @date on 2021/12/9 10:26
+ * +--------------------------------------------+
+ * | @author qihao                              |
+ * | @GitHub https://github.com/Pangu-Immortal  |
+ * +--------------------------------------------+
+ */
 public class ParticlesActivity extends Activity {
     /**
      * Hold a reference to our GLSurfaceView
