@@ -39,7 +39,15 @@ import com.particles.android.util.TextureHelper;
 import javax.microedition.khronos.egl.EGLConfig;
 import javax.microedition.khronos.opengles.GL10;
 
-public class ParticlesRenderer implements Renderer {    
+/**
+ * Doc说明 (此类核心功能):
+ * @date on 2021/12/9 10:26
+ * +--------------------------------------------+
+ * | @author qihao                              |
+ * | @GitHub https://github.com/Pangu-Immortal  |
+ * +--------------------------------------------+
+ */
+public class ParticlesRenderer implements Renderer {
     private final Context context;
 
     private final float[] projectionMatrix = new float[16];    

@@ -18,10 +18,10 @@ import android.widget.Toast
 /**
  * Doc说明 (此类核心功能):
  * @date on 2021/11/10 17:19
- * +------------------------------------+
- * | @author qihao                      |
- * | @GitHub https://github.com/yugu88  |
- * +------------------------------------+
+ * +--------------------------------------------+
+ * | @author qihao                              |
+ * | @GitHub https://github.com/Pangu-Immortal  |
+ * +--------------------------------------------+
  */
 class AirHockeyActivity : Activity() {
     /**
