@@ -58,8 +58,12 @@ public class Heightmap {
      * Copy the heightmap data into a vertex buffer object.
      */
     private float[] loadBitmapData(Bitmap bitmap) {
-        final int[] pixels = new int[width * height];                
-        bitmap.getPixels(pixels, 0, width, 0, 0, width, height);
+        final int[] pixels = new int[width * height];
+        try {
+            bitmap.getPixels(pixels, 0, width, 0, 0, width, height);
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
         bitmap.recycle();
         
         final float[] heightmapVertices = 
