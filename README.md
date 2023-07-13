@@ -7,7 +7,7 @@
 
 #### 🚀 快速入门指南
 
-请使用最新版Android studio，SDK 升级到 Android 12。 JDK11。
+请使用最新版Android studio，SDK 升级到 Android 14。 JDK17。
 
 
 ---
