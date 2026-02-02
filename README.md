@@ -8,6 +8,10 @@
 
 </div>
 
+<p align="center">
+  <b>⭐ 点击 <a href="https://github.com/Pangu-Immortal/Kbogla">Star</a>，关注不迷路 ⭐</b>
+</p>
+
 ### 适用于 Android 的 OpenGL ES 库 🐯
 
 <img src="https://github.com/yugu88/Kbogla/blob/main/author.png?raw=true" alt="https://github.com/yugu88/Kbogla/blob/main/author.png?raw=true" style="zoom:50%;" />
