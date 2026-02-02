@@ -1,17 +1,18 @@
-![访客统计](https://count.getloli.com/get/@Kbogla?theme=rule34)
+<div align="center">
+
+![萌萌计数器](https://count.getloli.com/get/@Kbogla?theme=rule34)
+
+</div>
+
 
 # Kbogla 🚗
 
 ### 适用于 Android 的 OpenGL ES 库 🐯
 
 <img src="https://github.com/yugu88/Kbogla/blob/main/author.png?raw=true" alt="https://github.com/yugu88/Kbogla/blob/main/author.png?raw=true" style="zoom:50%;" />
-
-
 #### 🚀 快速入门指南
 
 请使用最新版Android studio，SDK 升级到 Android 14。 JDK17。
-
-
 ---
 
 本项目将教您在 Android 上创建引人注目的图形所需的一切知识。
@@ -73,8 +74,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
