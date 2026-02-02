@@ -1,3 +1,5 @@
+![访客统计](https://count.getloli.com/get/@Kbogla?theme=rule34)
+
 # Kbogla 🚗
 
 ### 适用于 Android 的 OpenGL ES 库 🐯
@@ -55,3 +57,24 @@
 5. 专注于给最终用户留下深刻印象的东西
 
    有时很容易忽视最终目标，而是专注于优化对最终用户没有太大影响的领域。如果我们让这个着色器的执行速度提高 2% 有关系吗？或者我们会通过寻找更好的艺术家来产生更多的视觉冲击吗？找出最重要的领域是什么，然后首先专注于改进这些领域。
+
+---
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Pangu-Immortal/Kbogla&type=Date)](https://star-history.com/#Pangu-Immortal/Kbogla&Date)
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
